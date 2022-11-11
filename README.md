@@ -5,10 +5,6 @@
 
 <p align="center">Nessa live vimos o poder do <a href="https://www.prisma.io">PrismaIO</a> e os motivos para usarmos ele em nossas aplicações</p>
 
-## 👨🏼‍💻 Instrutor
-
-- [Dani Leão](https://www.instagram.com/dani_leao/)
-
 ## ✋🏻 Pré-requisitos
 
 - [Node.js](https://nodejs.org/en/)
