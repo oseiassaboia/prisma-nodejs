@@ -17,7 +17,7 @@
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta `cd prisma_decode`;
+2. Entre na pasta `cd prisma-nodejs`;
 3. Rode `yarn` ;
 4. Rode `yarn prisma generate` para instalar os models do prisma no projeto
 5. Rode `yarn dev` ou `npm run dev` para rodar a aplicação;
